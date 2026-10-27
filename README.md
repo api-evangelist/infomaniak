@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Infomaniak is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.infomaniak.com/
+Infomaniak is a Swiss cloud services provider offering web hosting, email, video streaming, and domain registration. Founded in 1994, it serves businesses and individuals with data centers in Switzerland, emphasizing privacy, security, and sustainability. The company provides a range of APIs for managing hosting services, email accounts, and multimedia content, supporting developers to integrate and automate their workflows.
+
+**Areas:** Company · Cloud · Hosting · Email · Video · Swiss
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.infomaniak.com/)
+- [Documentation](https://developer.infomaniak.com/)
+- [Support](https://www.infomaniak.com/fr/support/faq/admin2)
+- [Security](https://infomaniak.vulnerability-disclosure.com)
+- [Trust centre](https://www.infomaniak.com/fr/trust-center)
+- [GitHub](https://github.com/Infomaniak)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/infomaniak/](https://apis.io/providers/infomaniak/).
